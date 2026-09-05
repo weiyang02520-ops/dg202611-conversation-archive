@@ -1,0 +1,39 @@
+{
+  "snapshot_export_date": "2026-09-05",
+  "sources": {
+    "first": {
+      "title": "机器人定位挑战赛分析",
+      "source": "https://chatgpt.com/share/6a9b88ba-085c-83e9-b27b-7cbb97a8c954",
+      "all_message_records": 4444,
+      "roles": {
+        "system": 249,
+        "user": 472,
+        "assistant": 2124,
+        "tool": 1599
+      },
+      "dialogue_records": 1839,
+      "dialogue_characters": 1357696,
+      "markdown_parts": 97,
+      "image_references": 37,
+      "source_json_sha256": "0fb91a6758cd5c74df151e64265130a1a80c5c8069144dffa491a059c194d47d",
+      "complete_dialogue_reconstruction_verified": true
+    },
+    "second": {
+      "title": "恢复项目上下文",
+      "source": "https://chatgpt.com/share/6a9b8714-895c-83e9-b032-0f830ab56e24",
+      "all_message_records": 1794,
+      "roles": {
+        "system": 121,
+        "user": 303,
+        "assistant": 893,
+        "tool": 477
+      },
+      "dialogue_records": 943,
+      "dialogue_characters": 555906,
+      "markdown_parts": 39,
+      "image_references": 18,
+      "source_json_sha256": "ca210b7ea947a848209c4bfce1f080b2ba1d9f991ad913e71066b8f6a50c92ba",
+      "complete_dialogue_reconstruction_verified": true
+    }
+  }
+}

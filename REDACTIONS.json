@@ -1,0 +1,54 @@
+[
+  {
+    "location": "first[1534].metadata.search_result_groups[0].entries[0].snippet",
+    "kind": "EMAIL"
+  },
+  {
+    "location": "first[1534].metadata.search_result_groups[0].entries[17].snippet",
+    "kind": "EMAIL"
+  },
+  {
+    "location": "first[1534].metadata.search_result_groups[0].entries[18].snippet",
+    "kind": "EMAIL"
+  },
+  {
+    "location": "first[1534].metadata.search_result_groups[0].entries[19].snippet",
+    "kind": "EMAIL"
+  },
+  {
+    "location": "first[1534].metadata.search_result_groups[0].entries[20].snippet",
+    "kind": "EMAIL"
+  },
+  {
+    "location": "first[1534].metadata.search_result_groups[0].entries[21].snippet",
+    "kind": "EMAIL"
+  },
+  {
+    "location": "first[1534].metadata.search_result_groups[0].entries[22].snippet",
+    "kind": "EMAIL"
+  },
+  {
+    "location": "first[1534].metadata.search_result_groups[0].entries[23].snippet",
+    "kind": "EMAIL"
+  },
+  {
+    "location": "first[1534].metadata.search_result_groups[0].entries[24].snippet",
+    "kind": "EMAIL"
+  },
+  {
+    "location": "first[1534].metadata.search_result_groups[0].entries[25].snippet",
+    "kind": "EMAIL"
+  },
+  {
+    "location": "first[1551].content.parts[0]",
+    "kind": "EMAIL"
+  },
+  {
+    "location": "first[1551].metadata.safe_urls[0]",
+    "kind": "EMAIL"
+  },
+  {
+    "location": "first[3149].metadata.search_result_groups[38].entries[0].snippet",
+    "kind": "EMAIL"
+  }
+]

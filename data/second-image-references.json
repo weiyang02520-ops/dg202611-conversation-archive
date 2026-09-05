@@ -1,0 +1,200 @@
+[
+  {
+    "message": 890,
+    "content_type": "image_asset_pointer",
+    "asset_pointer": "sediment://file_00000000201c81f796a9047e405838dc?shared_conversation_id=6a9b8714-895c-83e9-b032-0f830ab56e24",
+    "size_bytes": 1099009,
+    "width": 1536,
+    "height": 2048,
+    "metadata": {
+      "sanitized": true
+    }
+  },
+  {
+    "message": 890,
+    "content_type": "image_asset_pointer",
+    "asset_pointer": "sediment://file_00000000e8d081f7b87a139420d181c4?shared_conversation_id=6a9b8714-895c-83e9-b032-0f830ab56e24",
+    "size_bytes": 618682,
+    "width": 1536,
+    "height": 2048,
+    "metadata": {
+      "sanitized": true
+    }
+  },
+  {
+    "message": 908,
+    "content_type": "image_asset_pointer",
+    "asset_pointer": "sediment://file_00000000d48481f5bfcc7563dcf278db?shared_conversation_id=6a9b8714-895c-83e9-b032-0f830ab56e24",
+    "size_bytes": 650722,
+    "width": 1536,
+    "height": 2048,
+    "metadata": {
+      "sanitized": true
+    }
+  },
+  {
+    "message": 908,
+    "content_type": "image_asset_pointer",
+    "asset_pointer": "sediment://file_00000000059481fda2f51ae577efcd01?shared_conversation_id=6a9b8714-895c-83e9-b032-0f830ab56e24",
+    "size_bytes": 1174800,
+    "width": 1536,
+    "height": 2048,
+    "metadata": {
+      "sanitized": true
+    }
+  },
+  {
+    "message": 908,
+    "content_type": "image_asset_pointer",
+    "asset_pointer": "sediment://file_00000000995881f7aff7da6db1bcc2ab?shared_conversation_id=6a9b8714-895c-83e9-b032-0f830ab56e24",
+    "size_bytes": 1185253,
+    "width": 1536,
+    "height": 2048,
+    "metadata": {
+      "sanitized": true
+    }
+  },
+  {
+    "message": 908,
+    "content_type": "image_asset_pointer",
+    "asset_pointer": "sediment://file_000000000310820cb38aebd24aec14dc?shared_conversation_id=6a9b8714-895c-83e9-b032-0f830ab56e24",
+    "size_bytes": 1119571,
+    "width": 1536,
+    "height": 2048,
+    "metadata": {
+      "sanitized": true
+    }
+  },
+  {
+    "message": 908,
+    "content_type": "image_asset_pointer",
+    "asset_pointer": "sediment://file_00000000cb6881f58bf328838f6344f8?shared_conversation_id=6a9b8714-895c-83e9-b032-0f830ab56e24",
+    "size_bytes": 5608032,
+    "width": 1536,
+    "height": 2048,
+    "metadata": {
+      "sanitized": true
+    }
+  },
+  {
+    "message": 1040,
+    "content_type": "image_asset_pointer",
+    "asset_pointer": "sediment://file_0000000008dc81f795632fe4aa0b349c?shared_conversation_id=6a9b8714-895c-83e9-b032-0f830ab56e24",
+    "size_bytes": 131721,
+    "width": 1288,
+    "height": 817,
+    "metadata": {
+      "sanitized": true
+    }
+  },
+  {
+    "message": 1181,
+    "content_type": "image_asset_pointer",
+    "asset_pointer": "sediment://file_00000000118481f782c52a3fe12c2c8d?shared_conversation_id=6a9b8714-895c-83e9-b032-0f830ab56e24",
+    "size_bytes": 484770,
+    "width": 1266,
+    "height": 757,
+    "metadata": {
+      "sanitized": true
+    }
+  },
+  {
+    "message": 1374,
+    "content_type": "image_asset_pointer",
+    "asset_pointer": "sediment://file_00000000c86081f7a795686fde3fd67a?shared_conversation_id=6a9b8714-895c-83e9-b032-0f830ab56e24",
+    "size_bytes": 294062,
+    "width": 1243,
+    "height": 528,
+    "metadata": {
+      "sanitized": true
+    }
+  },
+  {
+    "message": 1377,
+    "content_type": "image_asset_pointer",
+    "asset_pointer": "sediment://file_00000000d13881f7a05b18f5b75f18e4?shared_conversation_id=6a9b8714-895c-83e9-b032-0f830ab56e24",
+    "size_bytes": 271925,
+    "width": 1686,
+    "height": 436,
+    "metadata": {
+      "sanitized": true
+    }
+  },
+  {
+    "message": 1380,
+    "content_type": "image_asset_pointer",
+    "asset_pointer": "sediment://file_00000000ad7c81f7a88b930a5d4549bf?shared_conversation_id=6a9b8714-895c-83e9-b032-0f830ab56e24",
+    "size_bytes": 319605,
+    "width": 1768,
+    "height": 510,
+    "metadata": {
+      "sanitized": true
+    }
+  },
+  {
+    "message": 1630,
+    "content_type": "image_asset_pointer",
+    "asset_pointer": "sediment://file_00000000f73081faa51541b607666c57?shared_conversation_id=6a9b8714-895c-83e9-b032-0f830ab56e24",
+    "size_bytes": 148136,
+    "width": 951,
+    "height": 2047,
+    "metadata": {
+      "sanitized": true
+    }
+  },
+  {
+    "message": 1630,
+    "content_type": "image_asset_pointer",
+    "asset_pointer": "sediment://file_00000000538081fba0d0dc57c0da0532?shared_conversation_id=6a9b8714-895c-83e9-b032-0f830ab56e24",
+    "size_bytes": 59355,
+    "width": 1280,
+    "height": 960,
+    "metadata": {
+      "sanitized": true
+    }
+  },
+  {
+    "message": 1632,
+    "content_type": "image_asset_pointer",
+    "asset_pointer": "sediment://file_00000000ebcc81fab7d10d99d6484c7b?shared_conversation_id=6a9b8714-895c-83e9-b032-0f830ab56e24",
+    "size_bytes": 8249,
+    "width": 973,
+    "height": 163,
+    "metadata": {
+      "sanitized": true
+    }
+  },
+  {
+    "message": 1642,
+    "content_type": "image_asset_pointer",
+    "asset_pointer": "sediment://file_00000000adcc81f589fdd83f35b59fa7?shared_conversation_id=6a9b8714-895c-83e9-b032-0f830ab56e24",
+    "size_bytes": 514820,
+    "width": 2048,
+    "height": 1179,
+    "metadata": {
+      "sanitized": true
+    }
+  },
+  {
+    "message": 1736,
+    "content_type": "image_asset_pointer",
+    "asset_pointer": "sediment://file_00000000168881f89ed2c7097a69d50d?shared_conversation_id=6a9b8714-895c-83e9-b032-0f830ab56e24",
+    "size_bytes": 75780,
+    "width": 1270,
+    "height": 201,
+    "metadata": {
+      "sanitized": true
+    }
+  },
+  {
+    "message": 1784,
+    "content_type": "image_asset_pointer",
+    "asset_pointer": "sediment://file_00000000380c81f8a236cd3e755eb244?shared_conversation_id=6a9b8714-895c-83e9-b032-0f830ab56e24",
+    "size_bytes": 266178,
+    "width": 1836,
+    "height": 964,
+    "metadata": {
+      "sanitized": true
+    }
+  }
+]
